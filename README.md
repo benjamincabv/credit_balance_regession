@@ -2,6 +2,8 @@
 # Financial Data Modeling: Credit Balance Prediction
 By Benjamin Cabrera & Alexander Ohye
 
+Predicting credit card balances using Linear, Ridge, and Lasso regression models with cross-validation and feature selection (ISLR Credit dataset).
+
 ## Introduction
 
 This project explores how demographic and financial data can be used to **predict credit card balances** using machine learning regression techniques.  
